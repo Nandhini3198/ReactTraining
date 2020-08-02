@@ -1,0 +1,44 @@
+.button {
+    background-color:#F62217;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 7px;
+  }
+  .button1 {
+    background-color:green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 7px;
+  }
+  #add {
+    background-color:steelblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  #container
+  {
+    
+      display: inline-block;
+      padding-top: 6mm;
+      height: 50%;
+      width: 50%;
+  }
+  .align
+  {
+    background-color:lightgray;
+      text-align: center;
+      padding-top: 3mm;
+  }
